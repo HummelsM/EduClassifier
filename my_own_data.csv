@@ -1,0 +1,749 @@
+query,label
+What is the time complexity of a binary search tree?,CONCEPTUAL
+Where is the link to the Python IDE in this portal?,NAVIGATIONAL
+How do I implement a linked list in C++?,PROCEDURAL
+Can you explain the mathematical proof behind the P vs NP problem?,ADVANCED
+I dont get how recursion works.,CONCEPTUAL
+Wheres the syllabus for the Data Structures course?,NAVIGATIONAL
+I'm stuck on how to write a for loop in Java.,PROCEDURAL
+Optimize my code for a neural network using custom CUDA kernels.,ADVANCED
+What does 'pass-by-value' mean in simple terms?,CONCEPTUAL
+How do I log out of my student account?,NAVIGATIONAL
+Step by step guide to setup a virtual environment.,PROCEDURAL
+What are the architectural differences between RISC and CISC?,ADVANCED
+Explain the difference between a stack and a queue.,CONCEPTUAL
+Is there a section for past exam papers?,NAVIGATIONAL
+Help me fix this segmentation fault in my code.,PROCEDURAL
+How do I implement a transformer model from scratch without PyTorch?,ADVANCED
+Why is big O notation important?,CONCEPTUAL
+Wher can I find my profile settings?,NAVIGATIONAL
+Give me the code to reverse a string in Python.,PROCEDURAL
+Compare the security vulnerabilities of RSA vs Elliptic Curve Cryptography.,ADVANCED
+What is an abstract class?,CONCEPTUAL
+How do I reset my password?,NAVIGATIONAL
+I need to know how to install the GCC compiler.,PROCEDURAL
+Explain the Byzantine Generals Problem in distributed systems.,ADVANCED
+Difference between SQL and NoSQL databases.,CONCEPTUAL
+Where is the FAQ page?,NAVIGATIONAL
+Walk me through connecting to a MongoDB database.,PROCEDURAL
+Provide a deep dive into the Linux kernel scheduling algorithm.,ADVANCED
+What is the purpose of a pointer?,CONCEPTUAL
+Link to the discord server?,NAVIGATIONAL
+How to deploy a React app to Vercel?,PROCEDURAL
+Analyze the efficiency of the Dykstra algorithm for shortest paths.,ADVANCED
+Explain the concept of encapsulation.,CONCEPTUAL
+Where can I see my grades?,NAVIGATIONAL
+How do I use the map function in JavaScript?,PROCEDURAL
+What are the implications of quantum computing on modern encryption?,ADVANCED
+What is a hash collision?,CONCEPTUAL
+How do I contact support?,NAVIGATIONAL
+Show me how to create a simple API with Flask.,PROCEDURAL
+Can you derive the backpropagation algorithm for me?,ADVANCED
+Definition of a deadlock in OS.,CONCEPTUAL
+How to access the premium tutorials?,NAVIGATIONAL
+I need help setting up a Docker container for Postgres.,PROCEDURAL
+Discuss the nuances of multi-threading in high-frequency trading systems.,ADVANCED
+What are the components of a CPU?,CONCEPTUAL
+Where is the search bar?,NAVIGATIONAL
+How do I sort a list in Python?,PROCEDURAL
+Explain the math behind the Fourier Transform in signal processing.,ADVANCED
+What is polymorphism?,CONCEPTUAL
+Where can I download the course materials?,NAVIGATIONAL
+How do I filter an array in Ruby?,PROCEDURAL
+Explain the CAP theorem in the context of distributed databases.,ADVANCED
+What is the difference between a process and a thread?,CONCEPTUAL
+Where is the 'Help' button?,NAVIGATIONAL
+I'm struggling with the syntax for a switch statement.,PROCEDURAL
+How do you optimize a compiler for speculative execution?,ADVANCED
+What is the heap vs the stack?,CONCEPTUAL
+How do I change my email address?,NAVIGATIONAL
+Can you show me how to read a file in Java?,PROCEDURAL
+Describe the architecture of a decentralized autonomous organization.,ADVANCED
+What does 'idempotent' mean in REST APIs?,CONCEPTUAL
+Where are the community forums?,NAVIGATIONAL
+How do I create a branch in Git?,PROCEDURAL
+What is the mathematical foundation of the RSA algorithm?,ADVANCED
+Explain the concept of 'lazy loading'.,CONCEPTUAL
+How do I renew my subscription?,NAVIGATIONAL
+Show me how to use the 'reduce' method in JS.,PROCEDURAL
+How do you implement a lock-free data structure?,ADVANCED
+What is a primary key in a database?,CONCEPTUAL
+Where is the link to the live lecture?,NAVIGATIONAL
+How to write a unit test in Pytest?,PROCEDURAL
+Explain the difference between L1, L2, and L3 cache.,ADVANCED
+What is the purpose of the 'self' keyword in Python?,CONCEPTUAL
+How do I find my enrollment key?,NAVIGATIONAL
+Show me how to create a basic HTML form.,PROCEDURAL
+How do you perform 3D matrix rotations without a library?,ADVANCED
+What is an interface in Java?,CONCEPTUAL
+Where can I find the assignment deadlines?,NAVIGATIONAL
+I need to know how to use CSS Grid.,PROCEDURAL
+Explain the core principles of Zero-Knowledge Proofs.,ADVANCED
+What is the difference between TCP and UDP?,CONCEPTUAL
+How do I delete my account?,NAVIGATIONAL
+Help me write a script to scrape a website.,PROCEDURAL
+How do you implement a Red-Black Tree from scratch?,ADVANCED
+What is a closure in JavaScript?,CONCEPTUAL
+Where is the 'Settings' menu?,NAVIGATIONAL
+How to connect a Python script to an SQL database?,PROCEDURAL
+Discuss the trade-offs between different consensus algorithms in blockchain.,ADVANCED
+What is an IP address?,CONCEPTUAL
+How do I upgrade my plan?,NAVIGATIONAL
+Show me how to use 'async/await' in Node.js.,PROCEDURAL
+Explain the concept of 'Sharding' in database management.,ADVANCED
+What is a microservice architecture?,CONCEPTUAL
+Where is the 'About Us' page?,NAVIGATIONAL
+I need help with a regular expression for email validation.,PROCEDURAL
+Analyze the security of the SHA-256 hashing algorithm.,ADVANCED
+What is a kernel in an OS?,CONCEPTUAL
+How do I find the course syllabus?,NAVIGATIONAL
+How to implement a binary search algorithm?,PROCEDURAL
+Explain the theory behind Generative Adversarial Networks (GANs).,ADVANCED
+What is the difference between '==' and '===' in JS?,CONCEPTUAL
+Where can I view my certificate?,NAVIGATIONAL
+How do I use a try-catch block in C#?,PROCEDURAL
+What is the complexity of the Edmonds-Karp algorithm?,ADVANCED
+What is a foreign key?,CONCEPTUAL
+How do I change my password?,NAVIGATIONAL
+How to add a background image in CSS?,PROCEDURAL
+Explain the principles of Solid state drives vs Hard disk drives.,ADVANCED
+What is the difference between a compiler and an interpreter?,CONCEPTUAL
+Where is the feedback form?,NAVIGATIONAL
+How do I merge two branches in Git?,PROCEDURAL
+Discuss the impact of the von Neumann bottleneck on performance.,ADVANCED
+What is the DOM?,CONCEPTUAL
+How do I log in with Google?,NAVIGATIONAL
+Show me how to make a POST request in JavaScript.,PROCEDURAL
+Explain the concept of 'Homomorphic Encryption'.,ADVANCED
+What is a web server?,CONCEPTUAL
+Where can I find the grading rubric?,NAVIGATIONAL
+I need to know how to use 'flexbox'.,PROCEDURAL
+Explain the math behind Support Vector Machines.,ADVANCED
+What is the difference between a GET and POST request?,CONCEPTUAL
+How do I contact my instructor?,NAVIGATIONAL
+How to create a simple 'Hello World' app in Android?,PROCEDURAL
+Discuss the evolution of garbage collection algorithms.,ADVANCED
+What is a cloud computing service?,CONCEPTUAL
+Where is the 'Notifications' tab?,NAVIGATIONAL
+Show me how to handle form data in PHP.,PROCEDURAL
+Explain the architecture of a modern GPU.,ADVANCED
+What is a 'variable scope'?,CONCEPTUAL
+How do I access the library resources?,NAVIGATIONAL
+How to use the 'grep' command in Linux?,PROCEDURAL
+Analyze the efficiency of different sorting algorithms.,ADVANCED
+What is an 'object-oriented' language?,CONCEPTUAL
+Where is the 'Logout' button?,NAVIGATIONAL
+How do I set up a local server with XAMPP?,PROCEDURAL
+Explain the concept of 'Dynamic Programming'.,ADVANCED
+What is a 'syntax error'?,CONCEPTUAL
+Where is the 'Resources' folder?,NAVIGATIONAL
+How to use 'pip' to install packages?,PROCEDURAL
+Describe the inner workings of a distributed file system.,ADVANCED
+What is 'machine learning'?,CONCEPTUAL
+Where can I see the leaderboard?,NAVIGATIONAL
+Show me how to use the 'map' method in Python.,PROCEDURAL
+Explain the theory of 'Relativity' in the context of computer clocks.,ADVANCED
+What is a 'database transaction'?,CONCEPTUAL
+Where is the 'Settings' icon?,NAVIGATIONAL
+How to use 'npm' to manage dependencies?,PROCEDURAL
+Analyze the performance of different load balancing techniques.,ADVANCED
+What is 'big data'?,CONCEPTUAL
+Where is the 'Profile' page?,NAVIGATIONAL
+How to create a simple database in SQLite?,PROCEDURAL
+Explain the concept of 'Containerization'.,ADVANCED
+What is an 'API'?,CONCEPTUAL
+Where is the 'Help Center'?,NAVIGATIONAL
+How to use 'ssh' to connect to a remote server?,PROCEDURAL
+Discuss the future of 'Edge Computing'.,ADVANCED
+What is a 'firewall'?,CONCEPTUAL
+Where is the 'Dashboard'?,NAVIGATIONAL
+How to create a simple web page with HTML/CSS?,PROCEDURAL
+Analyze the security of 'Quantum Key Distribution'.,ADVANCED
+What is a 'proxy server'?,CONCEPTUAL
+Where is the 'Search' button?,NAVIGATIONAL
+How to use 'git' for version control?,PROCEDURAL
+Explain the concept of 'Serverless Computing'.,ADVANCED
+What is 'cybersecurity'?,CONCEPTUAL
+Where is the 'Support' link?,NAVIGATIONAL
+How to use 'docker' for local development?,PROCEDURAL
+Analyze the impact of 'Artificial Intelligence' on job markets.,ADVANCED
+What is a 'virtual machine'?,CONCEPTUAL
+Where is the 'Account' settings?,NAVIGATIONAL
+How to use 'kubernetes' for scaling applications?,PROCEDURAL
+Explain the concept of 'Microservices'.,ADVANCED
+What is 'blockchain'?,CONCEPTUAL
+Where is the 'Contact Us' page?,NAVIGATIONAL
+How to use 'terraform' for infrastructure as code?,PROCEDURAL
+Analyze the performance of 'NoSQL' vs 'SQL' databases.,ADVANCED
+What is 'data mining'?,CONCEPTUAL
+Where is the 'Privacy Policy'?,NAVIGATIONAL
+How to use 'ansible' for automation?,PROCEDURAL
+Explain the concept of 'Cloud Native'.,ADVANCED
+What is 'IoT'?,CONCEPTUAL
+Where is the 'Terms of Service'?,NAVIGATIONAL
+How to use 'jenkins' for CI/CD?,PROCEDURAL
+Analyze the impact of '5G' on network performance.,ADVANCED
+What is 'virtual reality'?,CONCEPTUAL
+Where is the 'Home' button?,NAVIGATIONAL
+How to use 'slack' for team communication?,PROCEDURAL
+Explain the concept of 'DevOps'.,ADVANCED
+What is 'augmented reality'?,CONCEPTUAL
+Where is the 'Sign In' button?,NAVIGATIONAL
+How to use 'trello' for project management?,PROCEDURAL
+Analyze the future of 'Autonomous Vehicles'.,ADVANCED
+What is 'natural language processing'?,CONCEPTUAL
+Where is the 'Sign Up' button?,NAVIGATIONAL
+How to use 'zoom' for video conferencing?,PROCEDURAL
+Explain the concept of 'Full Stack Development'.,ADVANCED
+show me the big o notation module.,NAVIGATIONAL
+explain the concept of memory management.,CONCEPTUAL
+what is dfs,CONCEPTUAL
+how to optimize memory management,ADVANCED
+edge cases for inheritance.,ADVANCED
+what does object oriented programming mean in cs,CONCEPTUAL
+What is Big O Notation?,CONCEPTUAL
+Take me to Dijkstra notes.,NAVIGATIONAL
+how do i code binary search trees,PROCEDURAL
+edge cases for a* search.,ADVANCED
+Compare Big O Notation with other methods.,ADVANCED
+Steps for implementing Binary Search Trees.,PROCEDURAL
+How to optimize DFS?,ADVANCED
+How do I code Object Oriented Programming?,PROCEDURAL
+Show me the algorithm for BFS.,PROCEDURAL
+Take me to Polymorphism notes.,NAVIGATIONAL
+what is recursion,CONCEPTUAL
+simplify object oriented programming for me.,CONCEPTUAL
+simplify memory management for me.,CONCEPTUAL
+Steps for implementing A* Search.,PROCEDURAL
+how do i code dfs,PROCEDURAL
+Show me the Memory Management module.,NAVIGATIONAL
+Open the Pointers chapter.,NAVIGATIONAL
+time complexity tradeoffs of stacks.,ADVANCED
+go to the section on linked lists.,NAVIGATIONAL
+Show me the algorithm for Big O Notation.,PROCEDURAL
+Show me the algorithm for Big O Notation.,PROCEDURAL
+show me the binary search trees module.,NAVIGATIONAL
+Simplify Memory Management for me.,CONCEPTUAL
+Show me the algorithm for A* Search.,PROCEDURAL
+Compare Object Oriented Programming with other methods.,ADVANCED
+Show me the Linked Lists module.,NAVIGATIONAL
+How do I code Big O Notation?,PROCEDURAL
+How to solve DFS?,PROCEDURAL
+Show me the Memory Management module.,NAVIGATIONAL
+Go to the section on BFS.,NAVIGATIONAL
+How to optimize DFS?,ADVANCED
+show me the polymorphism module.,NAVIGATIONAL
+Show me the BFS module.,NAVIGATIONAL
+Show me the Pointers module.,NAVIGATIONAL
+How do I code Stacks?,PROCEDURAL
+Time complexity tradeoffs of Linked Lists.,ADVANCED
+steps for implementing a* search.,PROCEDURAL
+steps for implementing dijkstra.,PROCEDURAL
+simplify a* search for me.,CONCEPTUAL
+Explain the concept of Memory Management.,CONCEPTUAL
+Time complexity tradeoffs of Binary Search Trees.,ADVANCED
+show me the algorithm for dfs.,PROCEDURAL
+Go to the section on Polymorphism.,NAVIGATIONAL
+What is Polymorphism?,CONCEPTUAL
+what does dijkstra mean in cs,CONCEPTUAL
+Take me to Big O Notation notes.,NAVIGATIONAL
+explain the concept of sorting.,CONCEPTUAL
+Go to the section on A* Search.,NAVIGATIONAL
+Simplify Linked Lists for me.,CONCEPTUAL
+How to optimize DFS?,ADVANCED
+Simplify Dynamic Programming for me.,CONCEPTUAL
+steps for implementing dijkstra.,PROCEDURAL
+What is A* Search?,CONCEPTUAL
+take me to recursion notes.,NAVIGATIONAL
+How to optimize BFS?,ADVANCED
+Time complexity tradeoffs of Stacks.,ADVANCED
+edge cases for object oriented programming.,ADVANCED
+edge cases for object oriented programming.,ADVANCED
+how to optimize inheritance,ADVANCED
+Show me the Memory Management module.,NAVIGATIONAL
+What does A* Search mean in CS?,CONCEPTUAL
+How to optimize A* Search?,ADVANCED
+How to optimize Sorting?,ADVANCED
+Simplify Pointers for me.,CONCEPTUAL
+open the object oriented programming chapter.,NAVIGATIONAL
+How to optimize Big O Notation?,ADVANCED
+Show me the Memory Management module.,NAVIGATIONAL
+How to optimize BFS?,ADVANCED
+show me the algorithm for recursion.,PROCEDURAL
+Open the Recursion chapter.,NAVIGATIONAL
+show me the algorithm for bfs.,PROCEDURAL
+What is Big O Notation?,CONCEPTUAL
+How to optimize DFS?,ADVANCED
+edge cases for polymorphism.,ADVANCED
+How do I code Sorting?,PROCEDURAL
+what does sorting mean in cs,CONCEPTUAL
+Show me the algorithm for Object Oriented Programming.,PROCEDURAL
+what does dfs mean in cs,CONCEPTUAL
+Edge cases for Sorting.,ADVANCED
+Steps for implementing Object Oriented Programming.,PROCEDURAL
+Take me to Sorting notes.,NAVIGATIONAL
+How do I code Memory Management?,PROCEDURAL
+Steps for implementing Dijkstra.,PROCEDURAL
+How do I code Linked Lists?,PROCEDURAL
+how to solve polymorphism,PROCEDURAL
+what is bfs,CONCEPTUAL
+Compare DFS with other methods.,ADVANCED
+What does Sorting mean in CS?,CONCEPTUAL
+What does Binary Search Trees mean in CS?,CONCEPTUAL
+Edge cases for Dynamic Programming.,ADVANCED
+take me to inheritance notes.,NAVIGATIONAL
+Open the Memory Management chapter.,NAVIGATIONAL
+Steps for implementing Linked Lists.,PROCEDURAL
+What does Stacks mean in CS?,CONCEPTUAL
+what is recursion,CONCEPTUAL
+How do I code DFS?,PROCEDURAL
+open the stacks chapter.,NAVIGATIONAL
+What is A* Search?,CONCEPTUAL
+Steps for implementing Binary Search Trees.,PROCEDURAL
+edge cases for polymorphism.,ADVANCED
+Open the Linked Lists chapter.,NAVIGATIONAL
+Show me the algorithm for Binary Search Trees.,PROCEDURAL
+show me the algorithm for linked lists.,PROCEDURAL
+compare recursion with other methods.,ADVANCED
+Show me the Inheritance module.,NAVIGATIONAL
+compare dynamic programming with other methods.,ADVANCED
+Simplify Binary Search Trees for me.,CONCEPTUAL
+Show me the BFS module.,NAVIGATIONAL
+what is binary search trees,CONCEPTUAL
+Show me the algorithm for Pointers.,PROCEDURAL
+Explain the concept of Memory Management.,CONCEPTUAL
+Show me the BFS module.,NAVIGATIONAL
+Show me the BFS module.,NAVIGATIONAL
+Go to the section on Recursion.,NAVIGATIONAL
+How do I code Polymorphism?,PROCEDURAL
+steps for implementing inheritance.,PROCEDURAL
+steps for implementing linked lists.,PROCEDURAL
+Simplify Binary Search Trees for me.,CONCEPTUAL
+Take me to DFS notes.,NAVIGATIONAL
+Edge cases for Stacks.,ADVANCED
+Open the Sorting chapter.,NAVIGATIONAL
+Show me the Recursion module.,NAVIGATIONAL
+Go to the section on Sorting.,NAVIGATIONAL
+Take me to Dynamic Programming notes.,NAVIGATIONAL
+How to solve Dynamic Programming?,PROCEDURAL
+Steps for implementing Binary Search Trees.,PROCEDURAL
+Go to the section on Memory Management.,NAVIGATIONAL
+take me to polymorphism notes.,NAVIGATIONAL
+Compare Dynamic Programming with other methods.,ADVANCED
+open the bfs chapter.,NAVIGATIONAL
+show me the dfs module.,NAVIGATIONAL
+explain the concept of binary search trees.,CONCEPTUAL
+How to optimize Binary Search Trees?,ADVANCED
+compare binary search trees with other methods.,ADVANCED
+compare stacks with other methods.,ADVANCED
+What does DFS mean in CS?,CONCEPTUAL
+Simplify Polymorphism for me.,CONCEPTUAL
+Open the Pointers chapter.,NAVIGATIONAL
+Show me the Inheritance module.,NAVIGATIONAL
+Explain the concept of Inheritance.,CONCEPTUAL
+How to solve Polymorphism?,PROCEDURAL
+Edge cases for BFS.,ADVANCED
+How do I code Big O Notation?,PROCEDURAL
+how to optimize binary search trees,ADVANCED
+Simplify Big O Notation for me.,CONCEPTUAL
+Explain the concept of Dynamic Programming.,CONCEPTUAL
+Time complexity tradeoffs of Stacks.,ADVANCED
+Steps for implementing Dynamic Programming.,PROCEDURAL
+How to solve Binary Search Trees?,PROCEDURAL
+Go to the section on A* Search.,NAVIGATIONAL
+Take me to Linked Lists notes.,NAVIGATIONAL
+Open the DFS chapter.,NAVIGATIONAL
+Steps for implementing Object Oriented Programming.,PROCEDURAL
+Compare Sorting with other methods.,ADVANCED
+How to solve Memory Management?,PROCEDURAL
+Time complexity tradeoffs of Sorting.,ADVANCED
+Steps for implementing Sorting.,PROCEDURAL
+edge cases for recursion.,ADVANCED
+What does Linked Lists mean in CS?,CONCEPTUAL
+Time complexity tradeoffs of Dijkstra.,ADVANCED
+Take me to BFS notes.,NAVIGATIONAL
+Open the BFS chapter.,NAVIGATIONAL
+how to solve sorting,PROCEDURAL
+Open the A* Search chapter.,NAVIGATIONAL
+Compare Pointers with other methods.,ADVANCED
+Go to the section on Pointers.,NAVIGATIONAL
+What does Dynamic Programming mean in CS?,CONCEPTUAL
+Open the Object Oriented Programming chapter.,NAVIGATIONAL
+what does dynamic programming mean in cs,CONCEPTUAL
+what is dfs,CONCEPTUAL
+Show me the DFS module.,NAVIGATIONAL
+how to optimize memory management,ADVANCED
+Simplify Object Oriented Programming for me.,CONCEPTUAL
+how to optimize dijkstra,ADVANCED
+time complexity tradeoffs of inheritance.,ADVANCED
+Simplify Memory Management for me.,CONCEPTUAL
+go to the section on memory management.,NAVIGATIONAL
+How to optimize A* Search?,ADVANCED
+Explain the concept of Linked Lists.,CONCEPTUAL
+Take me to Binary Search Trees notes.,NAVIGATIONAL
+Show me the algorithm for Binary Search Trees.,PROCEDURAL
+Explain the concept of Polymorphism.,CONCEPTUAL
+Simplify Object Oriented Programming for me.,CONCEPTUAL
+Steps for implementing Object Oriented Programming.,PROCEDURAL
+open the object oriented programming chapter.,NAVIGATIONAL
+time complexity tradeoffs of inheritance.,ADVANCED
+time complexity tradeoffs of dfs.,ADVANCED
+Simplify Polymorphism for me.,CONCEPTUAL
+How do I code Polymorphism?,PROCEDURAL
+Show me the DFS module.,NAVIGATIONAL
+open the bfs chapter.,NAVIGATIONAL
+Simplify Binary Search Trees for me.,CONCEPTUAL
+Open the Big O Notation chapter.,NAVIGATIONAL
+Explain the concept of Inheritance.,CONCEPTUAL
+What is Memory Management?,CONCEPTUAL
+how do i code dynamic programming,PROCEDURAL
+Go to the section on DFS.,NAVIGATIONAL
+edge cases for dijkstra.,ADVANCED
+how to optimize a* search,ADVANCED
+How to optimize Polymorphism?,ADVANCED
+edge cases for memory management.,ADVANCED
+Go to the section on Polymorphism.,NAVIGATIONAL
+How do I code DFS?,PROCEDURAL
+Explain the concept of Object Oriented Programming.,CONCEPTUAL
+Show me the algorithm for Object Oriented Programming.,PROCEDURAL
+how to optimize memory management,ADVANCED
+Simplify Dynamic Programming for me.,CONCEPTUAL
+Time complexity tradeoffs of DFS.,ADVANCED
+steps for implementing linked lists.,PROCEDURAL
+edge cases for big o notation.,ADVANCED
+how to solve pointers,PROCEDURAL
+What is Binary Search Trees?,CONCEPTUAL
+Open the BFS chapter.,NAVIGATIONAL
+Time complexity tradeoffs of Dijkstra.,ADVANCED
+Compare BFS with other methods.,ADVANCED
+Go to the section on Dynamic Programming.,NAVIGATIONAL
+compare dijkstra with other methods.,ADVANCED
+How to optimize Object Oriented Programming?,ADVANCED
+open the inheritance chapter.,NAVIGATIONAL
+Explain the concept of Recursion.,CONCEPTUAL
+Show me the Recursion module.,NAVIGATIONAL
+Show me the A* Search module.,NAVIGATIONAL
+How to solve Polymorphism?,PROCEDURAL
+take me to bfs notes.,NAVIGATIONAL
+how to solve pointers,PROCEDURAL
+Explain the concept of Object Oriented Programming.,CONCEPTUAL
+Simplify Stacks for me.,CONCEPTUAL
+Edge cases for Dijkstra.,ADVANCED
+How to solve Linked Lists?,PROCEDURAL
+Open the Linked Lists chapter.,NAVIGATIONAL
+take me to inheritance notes.,NAVIGATIONAL
+What does Sorting mean in CS?,CONCEPTUAL
+Go to the section on DFS.,NAVIGATIONAL
+go to the section on bfs.,NAVIGATIONAL
+open the bfs chapter.,NAVIGATIONAL
+Take me to A* Search notes.,NAVIGATIONAL
+Open the Dynamic Programming chapter.,NAVIGATIONAL
+What does Inheritance mean in CS?,CONCEPTUAL
+Show me the algorithm for A* Search.,PROCEDURAL
+What is Polymorphism?,CONCEPTUAL
+what does linked lists mean in cs,CONCEPTUAL
+open the object oriented programming chapter.,NAVIGATIONAL
+what is big o notation,CONCEPTUAL
+Steps for implementing Big O Notation.,PROCEDURAL
+Edge cases for Inheritance.,ADVANCED
+Simplify Polymorphism for me.,CONCEPTUAL
+how do i code memory management,PROCEDURAL
+Time complexity tradeoffs of Big O Notation.,ADVANCED
+what is sorting,CONCEPTUAL
+Compare BFS with other methods.,ADVANCED
+Time complexity tradeoffs of BFS.,ADVANCED
+what does bfs mean in cs,CONCEPTUAL
+Edge cases for DFS.,ADVANCED
+how do i code memory management,PROCEDURAL
+Simplify Binary Search Trees for me.,CONCEPTUAL
+How do I code BFS?,PROCEDURAL
+How to solve Recursion?,PROCEDURAL
+Explain the concept of Polymorphism.,CONCEPTUAL
+Show me the Binary Search Trees module.,NAVIGATIONAL
+How do I code Memory Management?,PROCEDURAL
+Take me to Polymorphism notes.,NAVIGATIONAL
+Compare Dijkstra with other methods.,ADVANCED
+What does Sorting mean in CS?,CONCEPTUAL
+Time complexity tradeoffs of Polymorphism.,ADVANCED
+show me the algorithm for dijkstra.,PROCEDURAL
+Take me to Object Oriented Programming notes.,NAVIGATIONAL
+Time complexity tradeoffs of Object Oriented Programming.,ADVANCED
+How to optimize Polymorphism?,ADVANCED
+What is Recursion?,CONCEPTUAL
+Take me to Sorting notes.,NAVIGATIONAL
+edge cases for object oriented programming.,ADVANCED
+What is BFS?,CONCEPTUAL
+Show me the algorithm for Sorting.,PROCEDURAL
+Show me the Inheritance module.,NAVIGATIONAL
+edge cases for inheritance.,ADVANCED
+Show me the Sorting module.,NAVIGATIONAL
+How to optimize Big O Notation?,ADVANCED
+Go to the section on Sorting.,NAVIGATIONAL
+How to optimize BFS?,ADVANCED
+Edge cases for Object Oriented Programming.,ADVANCED
+Show me the Memory Management module.,NAVIGATIONAL
+Simplify Inheritance for me.,CONCEPTUAL
+Compare Sorting with other methods.,ADVANCED
+What does DFS mean in CS?,CONCEPTUAL
+how to solve memory management,PROCEDURAL
+Time complexity tradeoffs of DFS.,ADVANCED
+edge cases for stacks.,ADVANCED
+open the pointers chapter.,NAVIGATIONAL
+Show me the Sorting module.,NAVIGATIONAL
+Take me to A* Search notes.,NAVIGATIONAL
+What does Polymorphism mean in CS?,CONCEPTUAL
+Open the Big O Notation chapter.,NAVIGATIONAL
+How to solve Inheritance?,PROCEDURAL
+open the a* search chapter.,NAVIGATIONAL
+Steps for implementing Polymorphism.,PROCEDURAL
+Edge cases for Dijkstra.,ADVANCED
+How do I code Pointers?,PROCEDURAL
+how to solve recursion,PROCEDURAL
+How to optimize Dijkstra?,ADVANCED
+how do i code binary search trees,PROCEDURAL
+what is memory management,CONCEPTUAL
+Open the Pointers chapter.,NAVIGATIONAL
+Open the Big O Notation chapter.,NAVIGATIONAL
+Compare Big O Notation with other methods.,ADVANCED
+what is object oriented programming,CONCEPTUAL
+open the dijkstra chapter.,NAVIGATIONAL
+How do I code Inheritance?,PROCEDURAL
+Show me the algorithm for Object Oriented Programming.,PROCEDURAL
+show me the polymorphism module.,NAVIGATIONAL
+What is Linked Lists?,CONCEPTUAL
+Show me the Polymorphism module.,NAVIGATIONAL
+Steps for implementing Object Oriented Programming.,PROCEDURAL
+take me to sorting notes.,NAVIGATIONAL
+What does Dijkstra mean in CS?,CONCEPTUAL
+Time complexity tradeoffs of BFS.,ADVANCED
+Steps for implementing DFS.,PROCEDURAL
+simplify linked lists for me.,CONCEPTUAL
+How to optimize A* Search?,ADVANCED
+Show me the algorithm for DFS.,PROCEDURAL
+Show me the algorithm for DFS.,PROCEDURAL
+Compare Object Oriented Programming with other methods.,ADVANCED
+What is Recursion?,CONCEPTUAL
+Take me to Dynamic Programming notes.,NAVIGATIONAL
+Steps for implementing Memory Management.,PROCEDURAL
+Show me the Dynamic Programming module.,NAVIGATIONAL
+what is big o notation,CONCEPTUAL
+Compare A* Search with other methods.,ADVANCED
+Time complexity tradeoffs of Pointers.,ADVANCED
+What does Dijkstra mean in CS?,CONCEPTUAL
+Edge cases for Linked Lists.,ADVANCED
+compare bfs with other methods.,ADVANCED
+How do I code Object Oriented Programming?,PROCEDURAL
+Compare Sorting with other methods.,ADVANCED
+Time complexity tradeoffs of Binary Search Trees.,ADVANCED
+explain the concept of a* search.,CONCEPTUAL
+How to solve Pointers?,PROCEDURAL
+time complexity tradeoffs of dfs.,ADVANCED
+Edge cases for Dynamic Programming.,ADVANCED
+how to solve inheritance,PROCEDURAL
+Show me the algorithm for Inheritance.,PROCEDURAL
+Compare Dynamic Programming with other methods.,ADVANCED
+Compare A* Search with other methods.,ADVANCED
+Explain the concept of Sorting.,CONCEPTUAL
+Steps for implementing Pointers.,PROCEDURAL
+steps for implementing bfs.,PROCEDURAL
+how to optimize memory management,ADVANCED
+Go to the section on DFS.,NAVIGATIONAL
+Steps for implementing Memory Management.,PROCEDURAL
+Explain the concept of Memory Management.,CONCEPTUAL
+how to solve polymorphism,PROCEDURAL
+time complexity tradeoffs of sorting.,ADVANCED
+Simplify Inheritance for me.,CONCEPTUAL
+how to solve memory management,PROCEDURAL
+How do I code Memory Management?,PROCEDURAL
+time complexity tradeoffs of pointers.,ADVANCED
+explain the concept of inheritance.,CONCEPTUAL
+What is A* Search?,CONCEPTUAL
+take me to memory management notes.,NAVIGATIONAL
+What is Polymorphism?,CONCEPTUAL
+Take me to BFS notes.,NAVIGATIONAL
+Compare Stacks with other methods.,ADVANCED
+How to optimize DFS?,ADVANCED
+How do I code Binary Search Trees?,PROCEDURAL
+go to the section on polymorphism.,NAVIGATIONAL
+What is Stacks?,CONCEPTUAL
+Steps for implementing Memory Management.,PROCEDURAL
+Open the A* Search chapter.,NAVIGATIONAL
+What does Pointers mean in CS?,CONCEPTUAL
+Explain the concept of Linked Lists.,CONCEPTUAL
+Compare Inheritance with other methods.,ADVANCED
+Take me to Dynamic Programming notes.,NAVIGATIONAL
+Show me the algorithm for Dijkstra.,PROCEDURAL
+edge cases for dfs.,ADVANCED
+Compare Dijkstra with other methods.,ADVANCED
+compare object oriented programming with other methods.,ADVANCED
+steps for implementing binary search trees.,PROCEDURAL
+take me to stacks notes.,NAVIGATIONAL
+compare big o notation with other methods.,ADVANCED
+how do i code recursion,PROCEDURAL
+Explain the concept of DFS.,CONCEPTUAL
+What is Inheritance?,CONCEPTUAL
+How to solve Dynamic Programming?,PROCEDURAL
+edge cases for binary search trees.,ADVANCED
+Time complexity tradeoffs of Memory Management.,ADVANCED
+Explain the concept of BFS.,CONCEPTUAL
+Time complexity tradeoffs of Stacks.,ADVANCED
+Edge cases for Inheritance.,ADVANCED
+Open the Pointers chapter.,NAVIGATIONAL
+Time complexity tradeoffs of Object Oriented Programming.,ADVANCED
+How to optimize Stacks?,ADVANCED
+How to optimize Pointers?,ADVANCED
+how to solve stacks,PROCEDURAL
+Edge cases for Dynamic Programming.,ADVANCED
+edge cases for a* search.,ADVANCED
+take me to dfs notes.,NAVIGATIONAL
+How do I code Memory Management?,PROCEDURAL
+What is Linked Lists?,CONCEPTUAL
+Compare Binary Search Trees with other methods.,ADVANCED
+open the dijkstra chapter.,NAVIGATIONAL
+Compare Binary Search Trees with other methods.,ADVANCED
+time complexity tradeoffs of big o notation.,ADVANCED
+Show me the Stacks module.,NAVIGATIONAL
+What is Recursion?,CONCEPTUAL
+Explain the concept of Inheritance.,CONCEPTUAL
+show me the stacks module.,NAVIGATIONAL
+Steps for implementing Binary Search Trees.,PROCEDURAL
+How to solve DFS?,PROCEDURAL
+Steps for implementing Big O Notation.,PROCEDURAL
+what is linked lists,CONCEPTUAL
+Go to the section on BFS.,NAVIGATIONAL
+Open the Stacks chapter.,NAVIGATIONAL
+Edge cases for Sorting.,ADVANCED
+Show me the algorithm for Inheritance.,PROCEDURAL
+Take me to Binary Search Trees notes.,NAVIGATIONAL
+What is A* Search?,CONCEPTUAL
+Simplify Dijkstra for me.,CONCEPTUAL
+Compare Inheritance with other methods.,ADVANCED
+What does Linked Lists mean in CS?,CONCEPTUAL
+edge cases for object oriented programming.,ADVANCED
+edge cases for sorting.,ADVANCED
+Time complexity tradeoffs of Stacks.,ADVANCED
+time complexity tradeoffs of bfs.,ADVANCED
+Open the Object Oriented Programming chapter.,NAVIGATIONAL
+Show me the algorithm for Dynamic Programming.,PROCEDURAL
+What is Dynamic Programming?,CONCEPTUAL
+Compare BFS with other methods.,ADVANCED
+Explain the concept of Memory Management.,CONCEPTUAL
+Time complexity tradeoffs of BFS.,ADVANCED
+What does BFS mean in CS?,CONCEPTUAL
+take me to a* search notes.,NAVIGATIONAL
+Time complexity tradeoffs of Sorting.,ADVANCED
+simplify big o notation for me.,CONCEPTUAL
+How do I code Sorting?,PROCEDURAL
+steps for implementing polymorphism.,PROCEDURAL
+Edge cases for Binary Search Trees.,ADVANCED
+Simplify Memory Management for me.,CONCEPTUAL
+What is Stacks?,CONCEPTUAL
+edge cases for bfs.,ADVANCED
+how do i code dfs,PROCEDURAL
+explain the concept of polymorphism.,CONCEPTUAL
+Take me to Stacks notes.,NAVIGATIONAL
+explain the concept of dfs.,CONCEPTUAL
+How do I code Linked Lists?,PROCEDURAL
+simplify recursion for me.,CONCEPTUAL
+simplify inheritance for me.,CONCEPTUAL
+How to solve Polymorphism?,PROCEDURAL
+Time complexity tradeoffs of Inheritance.,ADVANCED
+Steps for implementing Dijkstra.,PROCEDURAL
+Show me the algorithm for Recursion.,PROCEDURAL
+How do I code A* Search?,PROCEDURAL
+Steps for implementing DFS.,PROCEDURAL
+Open the Dynamic Programming chapter.,NAVIGATIONAL
+steps for implementing dfs.,PROCEDURAL
+Steps for implementing Linked Lists.,PROCEDURAL
+steps for implementing sorting.,PROCEDURAL
+time complexity tradeoffs of dijkstra.,ADVANCED
+Show me the algorithm for Binary Search Trees.,PROCEDURAL
+Explain the concept of Dijkstra.,CONCEPTUAL
+Simplify Recursion for me.,CONCEPTUAL
+Time complexity tradeoffs of Polymorphism.,ADVANCED
+Explain the concept of Dijkstra.,CONCEPTUAL
+take me to linked lists notes.,NAVIGATIONAL
+Go to the section on Object Oriented Programming.,NAVIGATIONAL
+Show me the Dynamic Programming module.,NAVIGATIONAL
+open the big o notation chapter.,NAVIGATIONAL
+Go to the section on DFS.,NAVIGATIONAL
+edge cases for stacks.,ADVANCED
+how to optimize memory management,ADVANCED
+What does Big O Notation mean in CS?,CONCEPTUAL
+What does Dijkstra mean in CS?,CONCEPTUAL
+explain the concept of object oriented programming.,CONCEPTUAL
+Take me to Polymorphism notes.,NAVIGATIONAL
+Go to the section on Inheritance.,NAVIGATIONAL
+How to optimize Polymorphism?,ADVANCED
+Simplify A* Search for me.,CONCEPTUAL
+How to solve Dijkstra?,PROCEDURAL
+Show me the BFS module.,NAVIGATIONAL
+How to optimize Pointers?,ADVANCED
+How to optimize Dynamic Programming?,ADVANCED
+how to optimize dynamic programming,ADVANCED
+Edge cases for Memory Management.,ADVANCED
+Explain the concept of BFS.,CONCEPTUAL
+How do I code A* Search?,PROCEDURAL
+Show me the Pointers module.,NAVIGATIONAL
+what is binary search trees,CONCEPTUAL
+Take me to Binary Search Trees notes.,NAVIGATIONAL
+Show me the algorithm for Pointers.,PROCEDURAL
+How to solve Polymorphism?,PROCEDURAL
+simplify recursion for me.,CONCEPTUAL
+Open the A* Search chapter.,NAVIGATIONAL
+Steps for implementing Binary Search Trees.,PROCEDURAL
+Explain the concept of Recursion.,CONCEPTUAL
+Time complexity tradeoffs of Big O Notation.,ADVANCED
+how to optimize pointers,ADVANCED
+"How does bubble sort actually work?",CONCEPTUAL
+"Need help installing Node.js on my machine",PROCEDURAL
+"Good websites for learning C++ online?",NAVIGATIONAL
+"Tips to improve GAN training stability",ADVANCED
+"Explain recursion with simple example",CONCEPTUAL
+"Step by step guide for creating Python class",PROCEDURAL
+"Where can I find JavaScript DOM tutorials?",NAVIGATIONAL
+"Optimizing RNN for text generation tasks",ADVANCED
+"Difference between abstract class and interface in Java",CONCEPTUAL
+"Help me fix TypeError in Python",PROCEDURAL
+"Best interactive platforms for learning algorithms",NAVIGATIONAL
+"Techniques to reduce training time in deep networks",ADVANCED
+"What is the purpose of heap memory?",CONCEPTUAL
+"Show me how to setup PostgreSQL locally",PROCEDURAL
+"Tutorials for learning CSS flexbox easily",NAVIGATIONAL
+"Improve inference speed in large Transformer models",ADVANCED
+"Explain concept of graph adjacency list",CONCEPTUAL
+"Can't get quicksort to sort properly",PROCEDURAL
+"Where can I find exercises for practicing recursion?",NAVIGATIONAL
+"Optimize memory usage when processing large JSON files",ADVANCED
+"Concept of multi-threading explained",CONCEPTUAL
+"Help me implement DFS in Python",PROCEDURAL
+"Best blogs for learning Python data structures",NAVIGATIONAL
+"Speed up model training with mixed precision",ADVANCED
+"Explain differences btwn TCP and UDP",CONCEPTUAL
+"Step by step guide to install Anaconda",PROCEDURAL
+"Good websites for coding interview prep",NAVIGATIONAL
+"Advanced hyperparameter tuning for XGBoost",ADVANCED
+"What is a priority queue?",CONCEPTUAL
+"Show me how to configure VSCode debugger",PROCEDURAL
+"Where can I find tutorials for Flask framework?",NAVIGATIONAL
+"Techniques to optimize SQL joins on large tables",ADVANCED
+"Difference between stack and heap memory",CONCEPTUAL
+"Need step by step for installing TensorFlow GPU",PROCEDURAL
+"Best online platforms to learn React hooks",NAVIGATIONAL
+"Improve performance of nested for loops in Python",ADVANCED
+"Explain concept of hash map collisions",CONCEPTUAL
+"Help me debug segmentation fault in C program",PROCEDURAL
+"Where to find Java multithreading tutorials?",NAVIGATIONAL
+"Optimizing CNN architecture for mobile deployment",ADVANCED
+"Concept of binary search explained simply",CONCEPTUAL
+"Step by step guide to setup Python virtualenv",PROCEDURAL
+"Good platforms for learning Rust programming",NAVIGATIONAL
+"Techniques to parallelize image processing in Python",ADVANCED
+"What is memoization in dynamic programming?",CONCEPTUAL
+"Can't get BFS to work in my Java code",PROCEDURAL
+"Where can I find coding challenges for beginners?",NAVIGATIONAL
+"Improve inference speed for BERT models",ADVANCED
+"Explain difference between singly and doubly linked list",CONCEPTUAL
+"Help me install Django and setup project",PROCEDURAL
+"Best websites for practicing SQL queries",NAVIGATIONAL
+"Advanced methods for distributed training in PyTorch",ADVANCED
