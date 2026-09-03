@@ -12,7 +12,7 @@ import torch
 
 # Load dataset
 df = pd.read_csv(
-    r'D://Yumna Folder Extra//My Own Data//data//my_own_data.csv',
+    r'data.csv',
     quotechar='"',      # treats everything inside quotes as one column
     on_bad_lines='skip' # optional, in case some rows are still broken
 )
