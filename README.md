@@ -196,7 +196,10 @@ Features:
 
 ---
 
-# 📌 Summary
+# 📌 Key Results
 
-This project demonstrates how transformer models can be applied beyond generic NLP tasks to solve **real educational system problems**, particularly in interpreting student intent and improving search intelligence.
-
+Built a custom dataset of 560+ educational queries
+Developed a four-class intent classification system
+Achieved 99.3% validation accuracy and 99.3% macro F1 score
+Deployed a real-time web application for intent prediction
+Implemented a complete production-style NLP pipeline from data preparation to deployment
